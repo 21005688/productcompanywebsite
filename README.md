@@ -455,10 +455,10 @@ body {
 
 ## OUTPUT:
 
-![output](./images/Homepage.png)
-![output](./images/products.png)
-![output](./images/contact.png)
-![output](./images/peoples.png)
+![output](./images/Homepage.PNG)
+![output](./images/products.PNG)
+![output](./images/contact.PNG)
+![output](./images/peoples.PNG)
 
 ## Result:
 
